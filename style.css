@@ -1,0 +1,31 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin:0;
+}
+#start,#not,#status{
+    font-size: 10px;
+    
+}
+.copy{
+    line-height:2;
+    width:100%;
+    font-size: 15px;
+    bottom: 0;
+    position:fixed;
+    text-align: center;
+    background-color: rgb(255, 0, 89);
+    color: rgb(0, 0, 0);
+}
+body{
+    background-size:cover;
+}
+canvas{
+    border:groove rgb(0, 0, 0);
+    margin-top: 60px;
+    border-radius: 30px;
+    box-shadow: 5px 20px 3px rgb(255, 255, 255);
+}
+textarea{
+    height: 10px;
+}
